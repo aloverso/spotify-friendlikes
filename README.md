@@ -12,7 +12,7 @@ You can find the **FriendLikes** extension in the Extensions tab of the Spicetif
 
 ### Manual Installation
 
-Copy the contents `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory, ensuring the filename remains `friendlikes.js`
+Copy the contents of `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory, ensuring the filename remains `friendlikes.js`
 
 | **Platform** | **Path** |
 |------------|-----------------------------------------------------------------------------------|
