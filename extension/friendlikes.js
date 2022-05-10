@@ -1,7 +1,7 @@
 
 (function FriendLikes() {
   const { CosmosAsync, URI, SVGIcons } = Spicetify;
-  const API_BASEURL = "http://localhost:8080"
+  const API_BASEURL = "https://guarded-meadow-30850.herokuapp.com"
   if (!(CosmosAsync && URI)) {
     setTimeout(FriendLikes, 300);
     return;
