@@ -38,4 +38,8 @@ app.use(express.static(path.join(__dirname, "build")));
 
 app.use("/api", friendlikesRouterFactory(postgresFriendlikesRepo));
 
+app.get("/health", (_req, res) => {
+  res.status(200).send("Alive");
+});
+
 export default app;
