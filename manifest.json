@@ -1,0 +1,12 @@
+[
+  {
+    "name": "FriendLikes",
+    "description": "Spicetify extension to send likes to your friends' listening activity",
+    "preview": "extension/preview.png",
+    "main": "extension/friendlikes.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "Anne LoVerso", "url": "https://github.com/aloverso" }
+    ]
+  }
+]
