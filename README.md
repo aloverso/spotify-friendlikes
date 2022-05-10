@@ -4,7 +4,7 @@ A [Spicetify](https://spicetify.app/) extension for sending likes to your friend
 
 ## Installation
 
-First, [install Spicetify](https://spicetify.app/docs/getting-started)
+First, [install Spicetify](https://spicetify.app/docs/getting-started). Then, you can install the extension either via Marketplace, or manually:
 
 ### Marketplace Installation
 
