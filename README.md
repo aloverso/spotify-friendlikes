@@ -6,7 +6,7 @@ A [Spicetify](https://spicetify.app/) extension for sending likes to your friend
 
 First, [install Spicetify](https://spicetify.app/docs/getting-started)
 
-Next, copy `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory:
+Next, copy the contents `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory, ensuring the filename remains `friendlikes.js`
 
 | **Platform** | **Path** |
 |------------|-----------------------------------------------------------------------------------|
