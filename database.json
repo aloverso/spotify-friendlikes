@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "user": "postgres",
+    "password": "",
+    "database": "spotifyfriendlikeslocal"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "localhost",
+    "user": "postgres",
+    "password": "",
+    "database": "spotifyfriendlikestest"
+  },
+  "heroku": {
+    "overwrite": {
+      "driver": "pg",
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}

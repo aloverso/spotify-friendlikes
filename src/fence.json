@@ -1,0 +1,16 @@
+{
+  "tags": ["backend"],
+  "dependencies": [
+    "knex",
+    "express",
+    "cors",
+    "supertest",
+    "axios",
+    "dayjs",
+    "body-parser",
+    "jsonwebtoken",
+    "bcryptjs",
+    "uuid",
+    "@trycourier/courier"
+  ]
+}
