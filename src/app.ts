@@ -1,6 +1,7 @@
 import express from "express";
 import path from "path";
 import bodyParser from "body-parser";
+import cors from 'cors';
 import { buildPgConnectionString } from "./database/buildPgConnectionString";
 import knex from "knex";
 import { PostgresFriendlikesRepository } from "./database/PostgresFriendlikesRepository";
@@ -31,6 +32,7 @@ const postgresFriendlikesRepo = PostgresFriendlikesRepository(kdb);
 
 const app = express();
 app.use(bodyParser.json());
+app.use(cors())
 
 app.use(express.static(path.join(__dirname, "build")));
 
