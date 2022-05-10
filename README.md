@@ -6,7 +6,13 @@ A [Spicetify](https://spicetify.app/) extension for sending likes to your friend
 
 First, [install Spicetify](https://spicetify.app/docs/getting-started)
 
-Next, copy the contents `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory, ensuring the filename remains `friendlikes.js`
+### Marketplace Installation
+
+You can find the **FriendLikes** extension in the Extensions tab of the Spicetify Marketplace within your Spotify app. Click the Download button to install.
+
+### Manual Installation
+
+Copy the contents `extension/friendlikes.js` ([link](https://github.com/aloverso/spotify-friendlikes/blob/main/extension/friendlikes.js)) into your [Spicetify](https://github.com/khanhas/spicetify-cli) extensions directory, ensuring the filename remains `friendlikes.js`
 
 | **Platform** | **Path** |
 |------------|-----------------------------------------------------------------------------------|
