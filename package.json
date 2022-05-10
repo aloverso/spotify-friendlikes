@@ -25,6 +25,9 @@
     "ext": "ts, html",
     "exec": "ts-node ./src/server.ts"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
