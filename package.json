@@ -13,7 +13,7 @@
     "db-migrate": "db-migrate",
     "prettier": "prettier --write . --ignore-path=./.eslintignore",
     "fences": "gf",
-    "dummy": "echo dummy"
+    "add:migration": "npm run db-migrate create $NAME -- --sql-file"
   },
   "prettier": {
     "printWidth": 110
