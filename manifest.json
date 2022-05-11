@@ -5,8 +5,6 @@
     "preview": "extension/preview.png",
     "main": "extension/friendlikes.js",
     "readme": "README.md",
-    "authors": [
-      { "name": "Anne LoVerso", "url": "https://github.com/aloverso" }
-    ]
+    "authors": [{ "name": "Anne LoVerso", "url": "https://github.com/aloverso" }]
   }
 ]
